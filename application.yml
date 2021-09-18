@@ -12,6 +12,3 @@ spring:
           google:
             client-id: 666272149190-vqed3smj1j511l9ef0j2mdruucq2tb99.apps.googleusercontent.com
             client-secret: PM2SK3l_aCTw3lqWtunNx1Uh
-          twitter:
-            client-id: 666272149190-vqed3smj1j511l9ef0j2mdruucq2tb99.apps.googleusercontent.com
-            client-secret: PM2SK3l_aCTw3lqWtunNx1Uh
