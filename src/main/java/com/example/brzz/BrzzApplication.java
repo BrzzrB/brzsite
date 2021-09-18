@@ -13,7 +13,7 @@ public class BrzzApplication {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Hello World!";
+        return "index";
     }
 
     public static void main(String[] args) {
