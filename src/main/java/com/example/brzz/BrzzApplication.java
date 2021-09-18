@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @SpringBootApplication
 public class BrzzApplication {
 
-    @RequestMapping("/")
+    @RequestMapping("/idnex")
     @ResponseBody
     String home() {
         return "index";
