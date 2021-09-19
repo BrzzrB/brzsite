@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @SpringBootApplication
 public class BrzzApplication {
 
-    @RequestMapping("/index")
+    @RequestMapping("/home")
     @ResponseBody
     String home() {
         return "index";
