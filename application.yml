@@ -12,4 +12,14 @@ spring:
           google:
             client-id: 666272149190-vqed3smj1j511l9ef0j2mdruucq2tb99.apps.googleusercontent.com
             client-secret: PM2SK3l_aCTw3lqWtunNx1Uh
+          vk:
+            client:
+              clientId: 7956014
+              clientSecret: ulu67YlQE7pb9vIgLrB1
+              accessTokenUri: 29dd1dca29dd1dca29dd1dca0129a47be4229dd29dd1dca489a8abebc9b31503d8c5f13
+              userAuthorizationUri: https://oauth.vk.com/authorize
+              authenticationScheme: query
+              clientAuthenticationScheme: form
+            resource:
+              userInfoUri: https://api.vk.com/method/users.get?v=5.52
 
