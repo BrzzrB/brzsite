@@ -11,13 +11,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @SpringBootApplication
 public class BrzzApplication {
 
-    @RequestMapping("/home")
-    @ResponseBody
-    String home() {
-        return "home";
-    }
 
     public static void main(String[] args) {
+
         SpringApplication.run(BrzzApplication.class, args);
     }
 }
