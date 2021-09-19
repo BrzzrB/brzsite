@@ -5,12 +5,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class FirstController {
-    @GetMapping("/home")
+    @GetMapping("/index")
     public String home(){
-        return "home";
+        return "static/index";
     }
-    @GetMapping("users")
+    @GetMapping("/users")
     public String users(){
-        return "users";
+        return "static/users";
     }
 }
