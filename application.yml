@@ -7,8 +7,8 @@ spring:
             clientId: 18b53e482f7a977bf598
             clientSecret: 34e4be84480d9c7b3f49644ca4be311cfb230b45
           facebook:
-            client-id: 175557794620210
-            client-secret: 47811923d35850af99957da252880431
+            client-id: 570803657540766
+            client-secret: 4733354f3ca23503894a7fbbc8346202
           google:
             client-id: 666272149190-vqed3smj1j511l9ef0j2mdruucq2tb99.apps.googleusercontent.com
             client-secret: PM2SK3l_aCTw3lqWtunNx1Uh
