@@ -14,7 +14,7 @@ public class BrzzApplication {
     @RequestMapping("/home")
     @ResponseBody
     String home() {
-        return "index";
+        return "home";
     }
 
     public static void main(String[] args) {
